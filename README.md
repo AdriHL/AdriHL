@@ -10,7 +10,7 @@ Combino el desarrollo de software con la seguridad (ofensiva y defensiva). No me
 
 ### ⚡ Tech Stack & Herramientas
 
-Java | Python | TypeScript | JavaScript | Wireshark | Redes | Linux 
+C++ | C | Python | Java | TypeScript | JavaScript | Wireshark | Redes | Linux 
 
 ### 📫 Conecta conmigo
 
