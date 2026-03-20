@@ -1,7 +1,7 @@
 **Estudiante de Ingeniería Telemática | Ciberseguridad & Redes | Creador de FuenteGo**
 
 Combino el desarrollo de software con la seguridad (ofensiva y defensiva). No me conformo con usar herramientas de terceros; me apasiona bajar al nivel de los bytes, entender cómo funcionan los protocolos y crear mis propias soluciones.
-
+ 
 ### 🛠️ ¿Qué hago?
 
 * 🛡️ **Audito & Investigo:** Desarrollo Pruebas de Concepto a bajo nivel (como herramientas de ARP Spoofing en Java o DNS Spoofing en Python) para entender las vulnerabilidades reales de red.
