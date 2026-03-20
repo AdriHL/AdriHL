@@ -1,7 +1,7 @@
 **Estudiante de Ingeniería Telemática | Ciberseguridad & Redes | Creador de FuenteGo**
 
 Combino el desarrollo de software con la seguridad (ofensiva y defensiva). No me conformo con usar herramientas de terceros; me apasiona bajar al nivel de los bytes, entender cómo funcionan los protocolos y crear mis propias soluciones.
- 
+
 ### 🛠️ ¿Qué hago?
 
 * 🛡️ **Audito & Investigo:** Desarrollo Pruebas de Concepto a bajo nivel (como herramientas de ARP Spoofing en Java o DNS Spoofing en Python) para entender las vulnerabilidades reales de red.
@@ -21,8 +21,8 @@ Java | Python | TypeScript | JavaScript | Wireshark | Redes | Linux
 
 ### 📊 Mis Estadísticas
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdriHL&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdriHL&theme=dark&v=1)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriHL&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriHL&layout=compact&theme=dark&v=1)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdriHL&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdriHL&show_icons=true&theme=dark&v=1)](https://github.com/anuraghazra/github-readme-stats)
