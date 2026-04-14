@@ -23,6 +23,6 @@ C++ | C | Python | Java | TypeScript | JavaScript | Wireshark | Redes | Linux
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdriHL&theme=dark&v=1)](https://git.io/streak-stats)
 
-[!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdriHL&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
+[![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdriHL&show_icons=true&theme=dark&hide_border=true)](https://github.com/AdriHL)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdriHL&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
