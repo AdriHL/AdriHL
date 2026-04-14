@@ -25,4 +25,4 @@ C++ | C | Python | Java | TypeScript | JavaScript | Wireshark | Redes | Linux
 
 [![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AdriHL&show_icons=true&theme=dark&hide_border=true)](https://github.com/AdriHL)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdriHL&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=AdriHL&layout=compact&theme=dark&hide_border=true)](https://github.com/AdriHL)
